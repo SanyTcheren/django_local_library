@@ -2,5 +2,4 @@ dj-database-url==1.2.0
 Django==4.1.7
 gunicorn==20.1.0
 psycopg2-binary==2.9.5
-wheel==0.38.4
 whitenoise==6.4.0
